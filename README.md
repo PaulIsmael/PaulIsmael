@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <div align="center"> <h1 align="center"> Hi There! I am a Data Analyst üëã </h1> </div>
-<b>Hi, My name is Yusuf. I am a data professional.<b>
+<b>Hi, My name is Paul. I am a data professional.<b>
 
 <p></p>
 <div align="center"> <h1 align="center"> :nerd_face:	 DATA ANALYSIS TOOLS :nerd_face: </h1> </div>
@@ -34,15 +34,15 @@
 <b>Lets connect</b>
 <p align="center">
 
-<a href="https://www.linkedin.com/in/.........../"> 
+<a href="www.linkedin.com/in/paul-ismael-788455297"> 
   <img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
-<a href="">
+<a href="(https://public.tableau.com/app/profile/paul.ismael/vizzes)">
   <img align="center" src="https://img.shields.io/badge/-Tableau-1e376b?style=for-the-badge&logo=tableau&logoColor=white"  />
 </a>
 
-<a href="mailto:yusufs@justit.co.uk ">  
+<a href="peeismael@gmail.com">  
   <img align="center" src="https://img.shields.io/badge/gmail-f1f2f6.svg?&style=for-the-badge&logo=gmail&logoColor=red"  />
 </a>
 

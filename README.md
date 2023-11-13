@@ -23,7 +23,6 @@
 
 </p>
 
-<img width="940" alt="Screenshot 2023-11-06 at 15 25 05" src="https://github.com/PaulIsmael/PaulIsmael/assets/150025834/5afe3d6b-217a-4fbd-b18f-b4019d99e908">
 
 
 
@@ -33,21 +32,12 @@
 
 <b>I have also experience using these data visualization tools.<b>
 
-<b> Here are some examples: <b>
-
 <p align="center">
 <a href="#" target="_blank"> <img src="https://matplotlib.org/stable/_images/sphx_glr_logos2_003.png" alt="Matplotlib" height="50"/> </a>
 <a href="#" target="_blank"> <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" height="50"/> </a>
 <a href="#" target="_blank"> <img src="https://www.tableau.com/sites/default/files/2022-04/TableauLogo_RGB.png" alt="Tableau" height="60"/> </a>
 <a href="#" target="_blank"> <img src="https://insightsoftware.com/wp-content/uploads/2018/03/blog-microsoft-power-bi-solid-color.jpg" alt="Microsoft Power BI" height="60"/> </a>
 </p>
-
-
-![Dashboard 1](https://github.com/PaulIsmael/PaulIsmael/assets/150025834/ff17a28e-8bb7-4179-a2fb-3946108c9ddd)
-
-<img width="367" alt="Screenshot 2023-10-03 at 22 40 42" src="https://github.com/PaulIsmael/PaulIsmael/assets/150025834/635461d0-b806-4d87-b952-971d10d763f1">
-
-<img width="340" alt="Screenshot 2023-09-01 at 12 59 49" src="https://github.com/PaulIsmael/PaulIsmael/assets/150025834/95f7d4e6-9fbe-4a59-acb8-cdf573c4a905">
 
 
 <div align="center"> <h1 align="center"> üë® SOCIAL üë© </h1> </div>

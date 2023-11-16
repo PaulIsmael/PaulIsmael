@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<div align="center"> <h1 align="center"> Hi There! I am a Data Analyst üëã </h1> </div>
+<div align="center"> <h1 align="center"> Hi There! I am a Data Analyst</h1> </div>
 <b>Hi, my name is Paul. I am a data professional.This repository is dedicated to showcasing data analysis work, insights, and visualisations  <b>
 <p></p>
 <b>This space is dedicated to showcasing the results of data analysis projects I've worked on. From exploring data to drawing insights and creating data visualizations, this repository is a window into my data-driven journey.<b>
@@ -33,14 +33,12 @@
 <b>I have also experience using these data visualization tools.<b>
 
 <p align="center">
-<a href="#" target="_blank"> <img src="https://matplotlib.org/stable/_images/sphx_glr_logos2_003.png" alt="Matplotlib" height="50"/> </a>
-<a href="#" target="_blank"> <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" height="50"/> </a>
 <a href="#" target="_blank"> <img src="https://www.tableau.com/sites/default/files/2022-04/TableauLogo_RGB.png" alt="Tableau" height="60"/> </a>
 <a href="#" target="_blank"> <img src="https://insightsoftware.com/wp-content/uploads/2018/03/blog-microsoft-power-bi-solid-color.jpg" alt="Microsoft Power BI" height="60"/> </a>
 </p>
 
 
-<div align="center"> <h1 align="center"> üë® SOCIAL üë© </h1> </div>
+<div align="center"> <h1 align="center"> üë® SOCIAL </h1> </div>
 <b>Lets connect</b>
 <p align="center">
 
